@@ -5,6 +5,7 @@
   <a href="https://github.com/Alimemonnn">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Student+%40+Aror+University;Full+Stack+Developer;Cybersecurity+%26+Open+Source+Enthusiast&font=Fira+Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=24" alt="Typing Header" />
   </a>
+  
   <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/alimemonn/">
