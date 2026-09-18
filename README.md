@@ -24,7 +24,6 @@
       <img src="https://img.shields.io/badge/Hackathon_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="CyberAware Hackathon Website">
     </a>
   </p>
-
   <!-- Quick Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Alimemonnn&label=Profile+Views&color=ff79c6&style=for-the-badge" alt="Profile Views" />
