@@ -1,7 +1,6 @@
 <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,50:ff79c6,100:1a1b27&height=200&section=header&text=Muhammad%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   <!-- Animated Typing Header -->
-
   <a href="https://github.com/Alimemonnn">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Student+%40+Aror+University;Full+Stack+Developer;Cybersecurity+%26+Open+Source+Enthusiast&font=Fira+Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=24" alt="Typing Header" />
   </a>
